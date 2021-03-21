@@ -1,3 +1,4 @@
 # hello-world
 Im trying to learn this funny github thing :D 
-I am student of control engineering. Currently working on path planning concepts
+I am student of control engineering.
+Wohoo!
